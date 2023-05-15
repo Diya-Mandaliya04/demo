@@ -28,7 +28,7 @@
 ?>
 <html>
 <head>
-    <title>Login</title>
+    <title>Login Form</title>
 </head> 
 <body>
     <h2>
